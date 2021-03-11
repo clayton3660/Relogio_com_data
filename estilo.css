@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#cabecalho {
+  font-size: 72pt;
+  font-family: Arial;
+  font-weight: bold;
+  color: rgb(15, 137, 194);
+  margin-top: 1em;
+}
+#rel {
+  font-size: 48pt;
+  margin-top: 25px;
+}
+#dat {
+  margin-top: 20px;
+  font-size: 32pt;
+}
